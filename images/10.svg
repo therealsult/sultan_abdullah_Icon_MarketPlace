@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.65 89.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="65.22 13.66 84.19 46.53 103.17 79.4 65.22 79.4 27.26 79.4 46.24 46.53 65.22 13.66"/>
+</svg>
