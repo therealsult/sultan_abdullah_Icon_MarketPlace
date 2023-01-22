@@ -15,6 +15,10 @@
       .cls-2 {
         fill: #231f20;
       }
+
+      #square-1-2 { cursor: pointer; }
+      #square-1-2:hover { fill: #42f5f5 !important; } 
+      #square-1:hover { transform: scale(1.1); }
     </style>
   </defs>
   <g id="square-1">

@@ -15,6 +15,10 @@
       .cls-2 {
         fill: #231f20;
       }
+
+      #circle-1-2 { cursor: pointer; }
+      #circle-1-2:hover { fill: #42f5f5 !important; } 
+      #circle-1:hover { transform: scale(1.1); }
     </style>
   </defs>
   <g id="circle-1">
