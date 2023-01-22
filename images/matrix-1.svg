@@ -16,6 +16,10 @@
         fill: #231f20;
         stroke: #fff;
       }
+
+      #star-1 { cursor: pointer; }
+      #star-1:hover { fill: #42f5f5 !important; } 
+      #matrix-1:hover { transform: scale(1.1); }
     </style>
   </defs>
   <g id="matrix-1">

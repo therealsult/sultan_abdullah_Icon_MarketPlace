@@ -17,7 +17,9 @@
         stroke-width: 14px;
       }
 
-      
+      #square-2-2 { cursor: pointer; }
+      #square-2-2:hover { fill: #42f5f5 !important; } 
+      #square-2:hover { transform: scale(1.1); }
     </style>
   </defs>
   <g id="square-2">

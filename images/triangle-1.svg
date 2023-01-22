@@ -15,6 +15,10 @@
       .cls-2 {
         fill: #231f20;
       }
+
+      #triangle-1-2 { cursor: pointer; }
+      #triangle-1-2:hover { fill: #42f5f5 !important; } 
+      #triangle-1:hover { transform: scale(1.1); }
     </style>
   </defs>
   <g id="triangle-1">

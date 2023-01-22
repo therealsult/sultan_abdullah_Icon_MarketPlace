@@ -16,6 +16,10 @@
         fill: #ef3f23;
         stroke-width: 14px;
       }
+            
+      #inner-x-1 { cursor: pointer; }
+      #x-background-1:hover { fill: #42f5f5 !important; } 
+      #x-1:hover { transform: scale(1.1); }
     </style>
   </defs>
   <g id="x-1">
