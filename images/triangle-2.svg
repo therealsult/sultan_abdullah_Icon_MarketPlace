@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ef3f23;
+        stroke-width: 5px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 14px;
+      }
+    </style>
+  </defs>
+  <g id="triangle-2">
+    <rect id="triangle-background-2" class="cls-2" x="32.21" y="31.34" width="87.33" height="87.33"/>
+    <polygon id="triangle-2-2" data-name="triangle-2" class="cls-1" points="75.87 47.82 88.75 70.13 101.63 92.44 75.87 92.44 50.11 92.44 62.99 70.13 75.87 47.82"/>
+  </g>
+</svg>

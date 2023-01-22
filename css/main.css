@@ -20,69 +20,110 @@
     
 }
 
+body {
+    font-family: Helvetica;
+    margin: 0;
+  }
+  a {
+    text-decoration: none;
+    color: #000;
+  }
 
-#icon-container {
-    border: solid 2px black;
-    background-color: rgb(255, 178, 178);
-    padding-top: 20px;
-    align-items: center;
-    position: relative;
-    width: 100%;
+/* Header */
 
+
+  .header { 
+    border-bottom: 3px solid rgb(72, 72, 72);
+    padding: .5em 1em;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(175, 255, 228);
+  }
+  
+  .title h1 {
+    font-size: 1.5em;
+    margin: .6em 0;
+    display: inline-block;
+  }
+  
+  
+  .main-nav ul, 
+  .main-nav li {
+    margin: 0; 
+    padding: 0;
+  }
+  
+  .main-nav li {
+    display: inline-block;
+    margin: 1.4em 1em 1em 1em;
+  }
+
+/* Header Ends */ 
+
+
+
+
+
+
+
+#summary
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-content: center;
+  margin-bottom: 50px;
 }
 
-#chart {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
+h1
+{
+  display: flex;
+  font-size: 45px;
+  font-color: #832238;
+  justify-content: center;
+  align-content: flex-start;
+  text-align: center;
+  margin-bottom: 5px;
 }
-#discs {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
+
+h2
+{
+  display: flex;
+  font-size: 30px;
+  color: #F08E8F;
+  justify-content: center;
+  align-content: flex-start;
+  text-align: center;
+  margin-bottom: 10px;
 }
-#harddrive {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
+
+p
+{
+    line-height: 20px;
+    text-align: center;
+    align-content: flex-start;
+    background: #fff;
+    margin: 1px;
 }
-#matrix {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
-}
-#nike {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
-}
-#message {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
-}
-#squar {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
-}
-#circle {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
-}
-#triangle {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
-}
-#x {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
-}
-#square {
-    cursor: pointer;
-    width: 100px;
-    height: auto;
-}
+
+  .icon-holder {width: 100%; margin: 0 auto; text-align: center; }
+  .icon-holder2 {width: 100%; margin: 0 auto; text-align: center; }
+
+  .wrapper {width: 10%; display: inline-block; padding: 1em; }
+  .wrapper img {width: 100%; }
+  .wrapper
+  {
+    align-content: center;
+    justify-content: center;
+  }
+
+  .wrapper2 {width: 10%; display: inline-block; padding: 1em; }
+  .wrapper2 img {width: 100%; }
+  .wrapper2
+  {
+    align-content: center;
+    justify-content: center;
+  }
+
+  .logo {width: 8%; display: inline-block; padding: 1em; }
+  .logo img {width: 100%; }

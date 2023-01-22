@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ef3f23;
+        stroke-width: 5px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 14px;
+      }
+
+      
+    </style>
+  </defs>
+  <g id="square-2">
+    <rect id="square-background-2" class="cls-2" x="31.34" y="38.9" width="87.33" height="87.33"/>
+    <rect id="square-2-2" data-name="square-2" class="cls-1" x="48.48" y="56.04" width="53.04" height="53.04"/>
+  </g>
+</svg>

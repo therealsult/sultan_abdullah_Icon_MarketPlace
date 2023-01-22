@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ef3f23;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+
+      #square-1-2 { cursor: pointer; }
+      #square-1-2:hover { fill: #42f5f5 !important; } 
+      #square-1:hover { transform: scale(1.1); }
+    </style>
+  </defs>
+  <g id="square-1">
+    <circle id="square-background-1" class="cls-2" cx="75" cy="75" r="47.83"/>
+    <rect id="square-1-2" data-name="square-1" class="cls-1" x="48.48" y="48.48" width="53.04" height="53.04"/>
+  </g>
+</svg>
